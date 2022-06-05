@@ -1,6 +1,5 @@
 <template>
-    <div>Тест</div>
+  <div class="text-3xl font-bold underline">Тест</div>
 </template>
 
-<style lang="scss">
-</style>
+<style lang="scss"></style>
